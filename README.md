@@ -43,9 +43,6 @@
     </a>&nbsp
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/git.png"/> </a> 
 </p>
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishek-solytics&show_icons=true&theme=algolia"/>
-
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-solytics&theme=algolia" />
 
 <a href="https://github.com/abhishek-solytics/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abhishek-solytics">
